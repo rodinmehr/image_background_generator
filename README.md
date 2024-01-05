@@ -6,6 +6,6 @@ Or you can use this code to simply make a better background for your image.
 ![background generator demo](./assets/image_background_generator_demo.jpg)
 
 # Tutorial
-<video width="320" height="240" controls>
-  <source src="./assets/image_background_generator.mp4" type="video/mp4">
-</video>
+
+https://github.com/rodinmehr/image_background_generator/assets/8158632/9b0e1dc5-fd78-41b5-8e71-f4e3d1cafeea
+
